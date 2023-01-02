@@ -22,8 +22,8 @@
 					</tr>
 					<xsl:for-each select="item">
 						<tr>
-							<xsl:attribute name="decaf">
-								<xsl:value-of select="boolean(@decaf)" />
+							<xsl:attribute name="vegan">
+								<xsl:value-of select="boolean(@vegan)" />
 							</xsl:attribute>
 							<td align="center">
 								<input name="item0" type="checkbox" />
