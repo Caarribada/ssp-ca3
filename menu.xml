@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <menu>
-    <category name="Coffee">
+    <category name="Brazilian Breakfast">
         <item>
-            <listing>Espresso</listing>
-            <price>3.10</price>
+            <listing>Tapioca</listing>
+            <price>10.50</price>
         </item>
         <item>
-            <listing>Latte</listing>
-            <price>3.50</price>
+            <listing>Queijo minas</listing>
+            <price>5.20</price>
         </item>
-        <item decaf="true">
-            <listing>Americano</listing>
-            <price>3.20</price>
+        <item vegan="true">
+            <listing>Vegan tapioca</listing>
+            <price>5.50</price>
         </item>
     </category>
-    <category name="Frappe">
+    <category name="Brazilian Lunch">
         <item>
-            <listing>Salted Caramel Frappé</listing>
-            <price>4.50</price>
+            <listing>Moqueca</listing>
+            <price>15.50</price>
         </item>
         <item>
-            <listing>Pumpkin Spice Frappé</listing>
-            <price>5.00</price>
+            <listing>Escondidinho</listing>
+            <price>17.50</price>
         </item>
-        <item decaf="true">
-            <listing>Mint Chocolate Frappé</listing>
-            <price>5.00</price>
+        <item vegan="true">
+            <listing>Feijoada vegan</listing>
+            <price>15.00</price>
         </item>
     </category>
-    <category name="Iced Coffee">
+    <category name="Brazilian Dinner">
         <item>
-            <listing>Iced Toasted Vanilla</listing>
-            <price>4.00</price>
+            <listing>Fricasse</listing>
+            <price>20.00</price>
         </item>
         <item>
-            <listing>Iced Shaken Espresso</listing>
-            <price>3.80</price>
+            <listing>Churrasco</listing>
+            <price>22.50</price>
         </item>
-        <item decaf="true">
-            <listing>Iced Flat White</listing>
-            <price>4.10</price>
+        <item vegan="true">
+            <listing>Sushi vegan</listing>
+            <price>25.50</price>
         </item>
     </category>
-    <category name="Tea">
+    <category name="Drinks">
         <item>
-            <listing>Mint</listing>
+            <listing>Matte</listing>
             <price>2.50</price>
         </item>
         <item>
-            <listing>Green</listing>
+            <listing>Limonada</listing>
             <price>2.70</price>
         </item>
-        <item decaf="true">
-            <listing>Breakfast</listing>
-            <price>2.50</price>
+        <item vegan="true">
+            <listing>Cerveja</listing>
+            <price>4.50</price>
         </item>
     </category>
-    <category name="Deserts">
+    <category name="Brazilian Deserts">
         <item>
-            <listing>Chocolate Brownie</listing>
+            <listing>Mousse de Maracuja</listing>
             <price>4.50</price>
         </item>
         <item>
-            <listing>Vanila Cheescake</listing>
+            <listing>Dadinho de tapioca</listing>
             <price>4.50</price>
         </item>
         <item>
-            <listing>Carrot Cake</listing>
+            <listing>Bolo de Banana</listing>
             <price>5.00</price>
         </item>
     </category>
