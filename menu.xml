@@ -2,71 +2,71 @@
 <menu>
     <category name="Brazilian Breakfast">
         <item>
-            <listing>Tapioca</listing>
+            <listing>Tapioca 🌮</listing>
             <price>10.50</price>
         </item>
         <item>
-            <listing>Queijo minas</listing>
+            <listing>Queijo minas 🧀</listing>
             <price>5.20</price>
         </item>
         <item vegan="true">
-            <listing>Vegan tapioca</listing>
+            <listing>Vegan tapioca 🥕</listing>
             <price>5.50</price>
         </item>
     </category>
     <category name="Brazilian Lunch">
         <item>
-            <listing>Moqueca</listing>
+            <listing>Moqueca 🦀</listing>
             <price>15.50</price>
         </item>
         <item>
-            <listing>Escondidinho</listing>
+            <listing>Escondidinho 🥔</listing>
             <price>17.50</price>
         </item>
         <item vegan="true">
-            <listing>Feijoada vegan</listing>
+            <listing>Feijoada vegan 🥑</listing>
             <price>15.00</price>
         </item>
     </category>
     <category name="Brazilian Dinner">
         <item>
-            <listing>Fricasse</listing>
+            <listing>Fricasse 🍛</listing>
             <price>20.00</price>
         </item>
         <item>
-            <listing>Churrasco</listing>
+            <listing>Churrasco 🍗</listing>
             <price>22.50</price>
         </item>
         <item vegan="true">
-            <listing>Sushi vegan</listing>
+            <listing>Sushi vegan 🍣</listing>
             <price>25.50</price>
         </item>
     </category>
     <category name="Drinks">
         <item>
-            <listing>Matte</listing>
+            <listing>Matte 🧉</listing>
             <price>2.50</price>
         </item>
         <item>
-            <listing>Limonada</listing>
+            <listing>Limonada 🧃</listing>
             <price>2.70</price>
         </item>
         <item vegan="true">
-            <listing>Cerveja</listing>
+            <listing>Cerveja 🍺</listing>
             <price>4.50</price>
         </item>
     </category>
     <category name="Brazilian Deserts">
         <item>
-            <listing>Mousse de Maracuja</listing>
+            <listing>Mousse de Maracuja 🍋 </listing>
             <price>4.50</price>
         </item>
         <item>
-            <listing>Dadinho de tapioca</listing>
+            <listing>Dadinho de tapioca 🍮</listing>
             <price>4.50</price>
         </item>
         <item>
-            <listing>Bolo de Banana</listing>
+            <listing>Bolo de Banana 🍰</listing>
             <price>5.00</price>
         </item>
     </category>
